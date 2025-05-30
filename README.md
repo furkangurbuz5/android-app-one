@@ -1,2 +1,2 @@
 # android-app-one
-Simple android appfor kotlin testing purposes
+Simple android app for kotlin testing purposes
